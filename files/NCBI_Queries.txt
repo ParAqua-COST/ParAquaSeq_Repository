@@ -1,0 +1,34 @@
+List of Queries used in NCBI ‘nucleotide’ database searches. The searches were done using R with the help of the package rentrez (Version: 1.2.3, 2020-11-06) and the extraction of the data was done with help of our own script.
+
+- Aphelida
+term='Aphelida[ORGN] AND 500:20000[SLEN] AND (rrna OR rDNA OR ITS OR internal transcribed spacer)'
+Accessed on 2023_03_08
+
+- Blastocladiomycota
+term='Blastocladiomycota[ORGN] AND 500:20000[SLEN] AND (ribosomal OR rrna OR rDNA OR ITS OR internal transcribed spacer)'
+Accessed on 2023_04_12
+
+- Chytridiomycota
+term='Uncultured Chytridiomycota[ORGN] NOT Batrachochytrium[ORGN] NOT Neocallimastigomycetes[ORGN] AND 500:20000[SLEN] AND (rrna OR rDNA OR ITS OR internal transcribed spacer)'
+Accessed on 2023_04_23
+
+- Cryptomycota
+term='Cryptomycota[ORGN] AND 500:20000[SLEN] AND (rRNA OR rDNA OR ITS OR internal transcribed spacer)'
+Accessed on 2023_04_13
+
+- Labyrinthulomycetes
+term='Labyrinthulomycetes[ORGN] AND 500:20000[SLEN] AND (rrna OR rDNA OR ITS OR internal transcribed spacer)'
+Accessed on 2023_03_08
+
+- Oomycota (MARINE AND FRESHWATER is run separately)
+  *Freshwater
+term='oomycota[ORGN] OR oomycete[ORGN] AND freshwater[All Fields] NOT bacteria[All Fields] NOT uncultured[All Fields]'
+Accessed on 2023_03_10
+
+  *Marine
+term='oomycota[ORGN] OR oomycete[ORGN] AND marine[All Fields] NOT bacteria[All Fields] NOT uncultured[All Fields]'
+Accessed on 2023_03_10
+
+- Perkinsozoa
+term='Perkinsozoa[ORGN] OR Perkinsea[ORGN] NOT Perkinsus[ORGN] AND 500:20000[SLEN] AND (rrna OR rDNA OR ITS OR internal transcribed spacer)'
+Accessed on 2023_03_08
