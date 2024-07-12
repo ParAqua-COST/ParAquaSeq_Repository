@@ -1,0 +1,283 @@
+Species	FullInfo
+Algomyces stechlinensis	"Algomyces stechlinensis S. Van den Wyngaert, K. Rojas & K. Seto. MycoBank MB825143. Journal of Eukaryotic Microobiology 65: 870â€“881. 2018
+Parasite; Eudorina elegans; Lake Stechlin; GERMANY"
+Amoeboaphelidium occidentale	"Amoeboaphelidium occidentale Letcher [Aphelidida, Aphelididae]Â MycoBank No.: MB807628; GenBank accession: KJ541118. Mycologia 107: 522â€“521. 2015. Parasite;Â on Scenedesmus dimorphus from an outdoor pond used for the cultivation ofÂ algae;Â 10 miles west of Las Cruces,Â New Mexico, UNITED STATES."
+Apiochytrium granulosporum	"Apiochytrium granulosporum Karpov & Moreira MycoBank no.: 827964. Journal of Eukaryotic Microbiology 66: 582â€“5591. 2018
+Parasite of Tribonema gayanum; small pond in Kuty village, Leningrad Province, RUSSIA"
+Arnaudovia hyponeustonica	"Arnaudovia hyponeustonica Valkanov (no Latin diagnosis); Arch. Protistenk., 106: 553â€“564, Pls. 40â€“43. 1963. = Polyphagus hyponeustonica (Valkanov) Karling 1977
+Parasitic; Phacotus, Trachelomonas, Strombomonas spp.; ditch; Longoza, BULGARIA"
+Blastocladiella anabaenae	"Blastocladiella anabaenae Canter & Willoughby; Journ. Roy. Micr. Soc., Ser. 3, 83: 365â€“372, Pls. 159â€“162. 1964
+Parasitic; Anabaena flos-aquae & A. circinalis; Lake Windermere plankton; E.L.D., UNITED KINGDOM."
+Blyttiomyces harderi	"Blyttiomyces harderi Sparrow & I.J. Dogma; Arch. Mikrobiol., 89: 177â€“204, fig. 3, Aâ€“I. 1973
+Parasitic; Rhizophlyctis rosea; soil; Santo Domingo, DOMNICAN REPUBLIC"
+Blyttiomyces lenis	"Blyttiomyces lenis S.N. Dasgupta & R. John; Bull. Bot. Surv. INDIA, 30: 1â€“82, fig. 42. 1988
+Parasitic; zygospore of Spirogyra; ditch, Sultanpur Road, SE of Lucknow U., INDIA"
+Blyttiomyces rhizophlyctidis	"Blyttiomyces rhizophlyctidis I.J. Dogma; Mycologia, 61: 1149â€“1158, figs. 1â€“21. 1969
+Parasitic; Rhizophlyctis rosea; soil sample from Petersburg, VIRGINIA, USA"
+Catenaria auxiliaris	"Catenaria auxiliaris (KĂĽhn) Tribe; Trans. Brit. Mycol. Soc., 69: 367â€“376. 1977
+Parasitic; Heterodera (nematodes); soil; ENGLAND, UNITED KINGDOM; ? Tarichium auxiliare KĂĽhn pro parte 1881"
+Catenaria ramosa	"Catenaria ramosa W. Martin; Mycologia, 70: 461â€“467, figs. 3â€“6. 1978
+=Nematoceromyces ramosus (W.W. Martin) Doweld. Index Fungorum no. 48 2014
+Parasitic; midge eggs (Dicrotendipes modestus); Streams; VIRGINIA, USA"
+Catenaria spinosa	"Catenaria spinosa W. Martin; Mycologia, 67: 264â€“272, figs. 1â€“15. 1975
+=Nematoceromyces spinosus (W.W. Martin) Doweld. Index Fungorum no. 48 2014
+Parasitic; chironomid eggs; small stream; VIRGINIA, USA"
+Catenaria uncinata	"Catenaria uncinata W. Martin; Mycologia, 70: 461â€“467, figs. 1,2,7,8. 1978
+=Nematoceromyces uncinatus (W.W. Martin) Doweld. Index Fungorum no. 48 2014
+Parasitic; midge eggs (Glyptotendipes lobiferus); lakes and ponds, VIRGINIA, USA"
+Catenaria vermicola	"Catenaria vermicola Birchfield; Mycopathol. Mycol. Appl. 13: 331â€“338, figs. 1â€“3. 1960
+Parasitic; plant parasitic nematodes (Xiphinema chambersi); soil; Shreveport, LOUISIANA, USA"
+Caulochytrium gloeosporii	"Caulochytrium gloeosporii Voos & Olive Mycologia, 60: 730â€“733, figs. 1â€“5. 1968; also see Voos: Amer. J. Bot., 56: 898â€“909. 1969. Parasitic; Gloeosporium sp. on dead leguminous pods; near Miami, FLORIDA, USA"
+Caulochytrium protostelioides	"Caulochytrium protostelioides Olive; Amer. J. Bot., 67: 568â€“574, figs. 1â€“24. 1980
+Parasitic; Cladosporium sp. on dead flowers; St. Vincent, BRITISH WEST INDIES"
+Caulochytrium protosteloides var. vulgaris	"Caulochytrium protosteloides var. vulgaris Olive; Mycologia, 75: 923â€“926, figs. 1â€“10. 1983
+Parasitic; mycelia and perithecia of Sordaria fimicola; horse dung; Highlands, NORTH CAROLINA, USA"
+Chytridium deltanum	"Chytridium deltanum Masters; Canad. J. Bot., 49: 471â€“481, figs. 2â€“4. 1971
+Parasitic; Oocystis spp.; phytoplankton; Lake Manitoba, CANADA"
+Chytridium horariumforme	"Chytridium horariumforme S.N. Dasgupta & R. John Bull. Bot. Surv. INDIA, 30: 1â€“82, fig. 51. 1988
+Parasitic; oospore of Spirogyra; ditch, Sultanpur Road, SE of Lucknow U., INDIA"
+Chytridium hyperparasiticum	"Chytridium hyperparasiticum Kobayasi & Konno; Bull. Natl. Sci. Mus., 14: 1â€“18, fig. 2 B. 1971
+Parasitic; sporangium of Rhizophlyctis rosea; soil in water, Angmagssalik, GREENLAND"
+Chytridium isthmiophilum	"Chytridium isthmiophilum Canter; Trans. Brit. Mycol. Soc., 43: 660â€“664, fig. 1. 1960
+Parasitic; Staurodesmus curvatus (desmid); plankton, lakes; E.L.D., UNITED KINGDOM
+â‰ˇ Diplochytridium isthmiophilum (Canter) Karling; Arch. Mikrobiol., 76: 126â€“131. 1971"
+Chytridium mallomonadis	"Chytridium mallomonadis Fott; Preslia, 29: 278â€“319, fig. 11: 1â€“4. 1957
+Parasitic; Mallomonadis tonsuratae resting spores; pond; Prague, central BOHEMIA
+â‰ˇ Diplochytridium mallomonadis (Fott) Karling; Arch. Mikrobiol., 76: 126â€“131. 1971
+W.H. Blackwell et al. 2002 disagree. See: Mycotaxon 83: 183â€“190"
+Chytridium telmatoskenae	"Chytridium telmatoskenae Fott; Preslia 29: 278-319, fig. 11: 5â€“10. 1957
+Parasitic; Telmatoskene mucosa; pond; Volary, central BOHEMIA"
+Chytriomyces cosmarii	"Chytriomyces cosmarii Karling; Sydowia 20: 119â€“128, figs. 1â€“7. 1967
+Parasitic; Cosmarium spp.; soil; hillside sheep paddock, Taita, NEW ZEALAND"
+Chytriomyces gilgaiensis	"Chytriomyces gilgaiensis Willoughby; Arch. Mikrobiol. 52: 101â€“131, fig. 6 aâ€“l. 1965
+Parasitic; Nowakowskiella crassa; soil; gilgai depression, VICTORIA, AUSTRALIA"
+Chytriomyces heliozoicola	"Chytriomyces heliozoicola Canter; Trans. Brit. Mycol. Soc. 49: 633â€“638, fig. 1. 1966
+Parasitic; Raphidiocystis lemani in plankton of lakes; E.L.D., UNITED KINGDOM."
+Chytriomyces laevis	"Chytriomyces laevis Karling; Nova Hedwigia 44: 137â€“139, figs. 1â€“18. 1987
+Parasitic; Pythium; soil, stream bank; PANAMA"
+Chytriomyces mortierellae	"Chytriomyces mortierellae Persiel; Arch. Mikrobiol. 36: 283â€“305, figs. 6,7. 1960
+Parasitic; Mortierella; soil sample; summit of Piz Buin, AUSTRIA"
+Chytriomyces nagatoroensis	"Chytriomyces nagatoroensis Konno Sci. Rep. Tokyo Kyoiku Daigaku Sect. B 14: 227â€“292, Pl. 4, fig. X. 1972
+Parasitic-weak; Spirogyra sp.; water?; Nagatoro (Saitama Prefecture), JAPAN"
+Chytriomyces reticulatus	"Chytriomyces reticulatus Persiel; Arch. Microbiol. 36: 283â€“305, fig. 8. 1960
+Parasitic; Pythium proliferum; soil; flower pot; Gottingen, GERMANY"
+Chytriomyces reticulosporus	"Chytriomyces reticulosporus I.J. Dogma; Philipp. J. Biol. 12: 385â€“408, figs. 10â€“21. 1983
+Parasitic; Phlyctochytrium punctatum; cultivated soils; Luzon, PHILIPPINES"
+Chytriomyces rhizidiomycetis	"Chytriomyces rhizidiomycetis (IF 5:282) I.J. Dogma Philipp. J. Biol. 12: 385â€“408, figs. 1â€“9. 1983
+Parasitic; Rhizidiomyces bivellatus; cultivated soils; PHILIPPINES & JAPAN"
+Chytriomyces verrucosus	"Chytriomyces verrucosus Karling; Bull. Torrey Bot. Club 87: 326â€“336, figs. 19A-19K. 1960
+Parasitic; Karlingia rosea; soil; Lafayette, INDIANA, USA"
+Collimyces mutans	"Collimyces mutans Â K. Seto & Y. Degawa, Â MycoBank no.: 823274. Protist 169: 507â€“520. 2018
+Parasitic on Microglena (green alga); pond, Kashiwa Bireji Mizube Park (Omuro, Kashiwa, CHIBA, JAPAN)"
+Dangeardia echinulata	"Dangeardia echinulata A. Batko; Acta Mycol., 6: 407â€“435, figs. 6-20. 1970.
+Parasitic; Vitreochlamys (Sphaerellopsis) aulata; pool near Vistula River, Warsaw,Â POLAND"
+Dangeardia sporapiculata	"Dangeardia sporapiculata Geitler; Sydowia, 16: 324â€“330, figs. 1â€“2. 1963.
+Parasitic; Chlamydomonas palmaloid stage; lake near Lunz; AUSTRIA"
+Dangeardia sporapiculata var. minor	"Dangeardia sporapiculata var. minor Geitler (? no type); Oesterr. Bot. Z., 112: 603â€“609, 1965.
+Parasitic; Heleochloridis pallidae; soil: Schladming,Â AUSTRIA"
+Dangeardiana eudorinae	"Dangeardiana eudorinae Valkanov (no Latin diagnosis) Arch. Mikrobiol., 48: 239â€“246, figs. 1-12. 1964.
+Parasitic; oospores of Eudorina elegans; water; Sofia, Bulgaria
+?  Dangeardiana eudorinae Valkanov ex A. Batko; Acta Mycol., 6: 407-435. 1970"
+Dictyomorpha dioica	"Dictyomorpha dioica Couch ex Mullins; Amer. J. Bot., 48: 377â€“387, figs. 1â€“37. 1961
+Parasitic; Oomycetes; Mirror Lake, Highlands, NC, USA ? Pringsheimiella dioica Couch 1939"
+Dictyomorpha dioica var. pythiensis	"Dictyomorpha dioica var. pythiensis N. Sarkar & R. Dayal Proc. Natl. Acad. Sci. India, Sect. B, 58: 403â€“406 figs. 1â€“10. 1988
+Parasitic; Pythium aphanidermatum; Kurukshetra Pond, Varanasi, U.P., INDIA"
+Dinomyces arenysensis	"Dinomyces arenysensis Karpov & Guillou. MycoBank no.: 807621. Protist, 165: 230â€“244. 2014
+Parasitic; dinophytes especially Alexandrium spp.; marine, Arenys de Mar harbour, Mediterranean Sea, SPAIN"
+Entophlyctis molesta	"Entophlyctis molesta Canter; J. Roy. Microscop. Soc. London, 84: 549â€“557, figs. 1-4. 1965
+?Parasitic; Stylosphaeridium stipitatum; phytoplankton; English lakes, U.K. ? Dangeardia molesta (Canter) A. Batko 1975"
+Entophlyctis reticulospora	"Entophlyctis reticulospora P. Cook; Trans. Brit. Mycol. Soc., 49: 545â€“550, Pls. 28-29. 1966;
+Parasitic; Closterium moniliferum et al.; swampy area; Cheboygan Co., MICHIGAN, USA"
+Ericiomyces syringoforeus	"Ericiomyces syringoforeus Karpov et ReĂ±Ă©. MycoBank MB836467. Mycological Progress 20:95â€“109. 2021
+Parasite; dinoflagellates especially Kryptoperidium spp.Â  KĂ¶kar, Ă…land Archipelago (northern Baltic Sea), FINLAND"
+Mesochytrium penetrans	"Mesochytrium penetrans Gromov, B. V., Mamkaeva, K.A., and Pljusch, A.V. Nova Hedwigia 71: 151â€“160. 2000; Parasitic; Chlorococcum minutum; small lake, Karelia; RUSSIAemend Karpov Persoonia 32: 115â€“126. 2014"
+Micromyces furcata	"Micromyces furcata Rieth; Kulturpflanze, Beiheft 3: 286â€“295, Pl. 2 Aâ€“H. 1962;
+Parasitic; Spirogyra longata; Stechlinsee region; GERMANY"
+Nephridiophaga javanicae	"Nephridiophaga javanicae Strassert and Radek. MycoBank 837478. scientific reports (2021) 11:396, Fig.2
+Parasitic; Malpighian tubules of cockroach, insectarium of Aquarium Berlin, Madagascar. Suggested to be allied to the Cladochytridiales based on rDNA operon analyses."
+Nephridiophaga postici	"Nephridiophaga postici Strassert and Radek. MycoBank 837477. scientific reports (2021) 11:396, Fig.1
+Parasitic; Malpighian tubules of cockroach, insectarium of Aquarium Berlin. Suggested to be allied to the Cladochytridiales based on rDNA operon analyses."
+Olpidium cucurbitacearum	"Olpidium cucurbitacearum D.J.S. Barr and Dias; Canad. J. Bot. 46: 1087â€“1091, figs. 1â€“12 & 13â€“22. 1968;
+Parasitic; cucumber roots; soil; southern ONTARIO, CANADA
+= Olpidium radicale 1977 as redescribed, Lange & Insunza; Trans. Brit. Mycol. Soc. 69: 377â€“384. 1977"
+Olpidium incognitum	"Olpidium incognitum S.N. Dasgupta & R. John; Bull. Bot. Surv. India 30: 1â€“82, figs. 5â€“6. 1988;
+Parasitic; egg of rotifer; tank sediment; Lucknow U., INDIA"
+Olpidium indicum	"Olpidium indicum Karling (homonym); Sydowia 17: 302â€“307, figs. 1â€“21. 1964;
+Parasitic; Catenophlyctis variabilis & Rhizophlyctis fuscus; soil; Rhamnad Dist., INDIA;
+Îž Olpidium indum Karling 1966"
+Olpidium indicum	"Olpidium indicum Kiran & Dyal (homonym & type not indicated); Proc. Natl. Acad. Sci, India, Sect. B. 62: 295â€“298, fig. 2. 1992;
+Parasitic; root hairs of angiosperms; Pond; Ramkatora, Varanasi, U.P., INDIA"
+Olpidium longum	"Olpidium longum S.N. Dasgupta & R. John; Bull. Bot. Surv. India 30: 1â€“82, figs. 2â€“4. 1988;
+Parasitic; eggs of animicules; tank sediment; Lucknow U., INDIA"
+Olpidium poreferum	"Olpidium poreferum Kiran and Dyal (invalid; type not designated) Proc. Natl. Acad. Sci., India, Sect. B. 62: 295â€“298, Pl. 1, fig. 1. 1992;
+Parasitic; rotifers; Pond, Ag. Farm; B.H.U., U.P., INDIA"
+Olpidium pseudoeuglenae	"Olpidium pseudoeuglenae S.N. Dasgupta & R. John; Bull. Bot. Surv. India 30: 1â€“82, fig. 7. 1988;
+Parasitic; chytrid on Closterium; tank sediment; Lucknow U., INDIA"
+Olpidium sparrowii	"Olpidium sparrowii I.J. Dogma; Philipp. J. Biol. 6: 9â€“20, figs. 1â€“16. 1977; table of Olpidium spp. parasitic on rotifers;
+Parasitic; rotifer eggs; cultivated soils; Putiao, Luzon, PHILIPPINES"
+Olpidium synchytrii	"Olpidium synchytrii Karling; Mycologia 50: 944â€“947, figs. 1â€“7. 1958;
+Parasitic; Synchytrium namae on Nama jamaicensis plants; TEXAS, USA"
+Olpidium vermicola	"Olpidium vermicola G.L. Barron & E. Szijarto; Mycologia 78: 972â€“975, figs. 1â€“12. 1986;
+Parasitic; nematode eggs; old stump; Lake Manitowabing, ONTARIO, CANADA"
+Paramicrosporidium saccamoebae	Paramicrosporidium saccamoebae Corsaro et al. MycoBank no.: 807392. Parasitol Res 113: 1909–1918. 2014 parasitic, Saccamoeba sp., freshwater pond, GERMANY
+Paramicrosporidium vannellae	Paramicrosporidium vannellae Corsaro et al. MycoBank no.: 807393. Parasitol Res 113: 1909–1918. 2014, parasitic, Vannella sp., keratitis patient, GERMANY
+Paraphysoderma sedebokerense	"Paraphysoderma sedebokerense Boussiba, Zarka & T. James.Â  MB#561751. Mycotaxon 118:177â€“180.Â  2011
+Parasite; non-motile Haematococcus pluvialis"
+Phlyctidium apophysatum	"Phlyctidium apophysatum Canter 1947 emended by H. Canter; Trans. Brit. Mycol. Soc. 44: 522â€“528, figs. 1â€“3 & Pl. 34, figs.1-10. 1961;
+Parasitic; Mougeotia; E.L.D., U.K. Îž Canteria apophysata (Canter) Karling 1971"
+Phlyctidium scenedesmi	"Phlyctidium scenedesmi Fott; Z. Allg. Mikrobiol. 7: 97â€“102, figs. 1â€“16. 1967;
+Parasitic; Scenedesmus quadricauda in mass culture; water; Trebon, CZECHOSLOVAKIA;
+Îž Rhizophydium scenedesmi (Fott) Karling; CI, p. 65. 1977"
+Phlyctochytrium macrosporum	"Phlyctochytrium macrosporum Sparrow; Mycologia 70: 140â€“149, figs. 1â€“14. 1978;
+Parasitic?; live pine pollen; neuston; Newnanâ€™s Lake, FLLORIDA, USA"
+Phlyctochytrium parasitans	"Phlyctochytrium parasitans Sparrow & I.J. Dogma; Arch. Mikrobiol. 89: 177â€“204, fig. 2, Tâ€“U. 1973;
+Parasitic; eggs of Achlya flagellata; damp soil; Carretara Duarte, HISPANIOLA"
+Pleotrachelus bornovanus	"Pleotrachelus bornovanus Sahtiyanci; Arch. Mikrobiol. 41: 187â€“228, figs. 50â€“79. 1962;
+Parasitic; Lactuca, Spinacea, Beta, Nicotiana, Solanum et al.; soil; Îž Olpidium bornovanus (Sahtiyanci) Karling; CI, p. 13. 1977; = O. radicale (sensu Lange & Insunza 1977); = O. cucurbitacearum D.J.S. Barr & Dias 1968. See Campbell & Sim; Canad. J. Bot. 72: 1136â€“1143. 1994."
+Pleotrachelus virulentus	"Pleotrachelus virulentus Sahtiyanci; Arch. Mikrobiol. 41: 187â€“228, figs. 24â€“49. 1962;
+Parasitic; Lactuca, Solanum, Beta, Nicotiana, Capsella; Îž Olpidium virulentus (Sahtiyanci) Karling; CI, p. 13. 1977"
+Polycaryum branchipodianum	"Polycaryum branchipodianum Stempell, 1902. Zoologische. Abteilung fuÂ¨ r Systematik, Geographie und Biologie der Tiere, 15: 591â€“596 plus Tafel, 31. 1902 . Parasite; fairy shrimp (Branchipus grubei; Branchiopoda, Anostraca). Johnson et al. in Freshwater Biology 51: 634â€“648. 2006 designated Figs 1â€“8 [Stempell, 1902 Zoologische Jahrbucher. Abteilung fuÂ¨ r Systematik, Geographie und Biologie der Tiere 15: Tafel (Plate) 31, Figs 1â€“8] lectotype for P. branchipodianum and placed it in the Blastocladiales. P. branchipodianum is considered type species for genus Polycaryum."
+Polyphagus asymmetricus	"Polyphagus asymmetricus Valkanov (no Latin diagnosis); Arch. Protistenk. 106: 565â€“568, Pl. 44. 1963;
+Parasitic; Botrydiopsis; hyponeuston, southern BULGARIA"
+Polyphagus elegans	"Polyphagus elegans Canter; Nova Hedwigia 5: 419â€“428, Pls. 74â€“76. 1963;
+Parasitic; Ulothrix mucosum; plankton; Windermere, E.L.D., UNITED KINGDOM"
+Polyphagus serpentinus	"Polyphagus serpentinus Canter; Nova Hedwigia 5: 419â€“428, Pls. 71â€“73. 1963;
+Parasitic; Spondylosium spp.; lakes; E.L.D., UNITED KINGDOM"
+Polyphagus starrii	"Polyphagus starrii Johns; Mycologia 56: 441â€“451, figs. 1â€“6, 1964;
+Parasitic; Eudorina, Pandorina, et al.; Stonewall Pond, MASSACHUSETTS, USA"
+Pseudopileum unum	"Pseudopileum unum Canter; Trans. Brit. Mycol. Soc. 46: 305â€“320, fig. 3. 1963;
+Parasitic; cysts of Mallomonas sp.; plankton of Elterwater; E.L.D., UNITED KINGDOM"
+Quaeritorhiza haematococci	"Quaeritorhiza haematococci Longcore, D.R. Simmons & T.Y. James MycoBank MB833715. Mycologia 112:606â€“615. 2020
+Parasite; non-motile stage of Haematococcus pluvialis; Commercial alga facility, TEXAS, USA"
+Rhizophlyctis columellae	"Rhizophlyctis columellae S.N. Dasgupta & R. John; Indian Phytopathol. 43: 564â€“567, fig. 1. 1990 (1991).
+Parasitic; zygospore of Spirogyra sp.; tank; Lucknow U., INDIA"
+Rhizophydium algavorum	"Rhizophydium algavorum Gromov, B.V., A.V. Pljusch and K.A. Mamkaeva, 1999. Protistology 1: 62â€”65.
+Parasitic; Chlorococum minutum; pond; St. Petersburg, RUSSSIA"
+Rhizophydium androdioctes	"Rhizophydium androdioctes Canter; Trans. Brit. Mycol. Soc. 56: 115â€“120, figs. 1â€“19. 1971.
+Parasitic; Dictyosphaerium pulchellum (Green alga); Loch Leven, Kinross, SCOTLAND"
+Rhizophydium aphanomycis	"Rhizophydium aphanomycis Karling; Nova Hedwigia 27: 747â€“771, figs. 12â€“21. 1976.
+Parasitic; Aphanomyces sp.; soil; Ngorongora Crater, TANZANIA"
+Rhizophydium blastocladianum	"Rhizophydium blastocladianum S.N. Dasgupta & R. John; Bull. Bot. Surv. India 30: 1â€“82, fig. 16. 1988.
+Parasitic; Blastocladia on apple; tank sediment; Lucknow U., INDIA"
+Rhizophydium blyttiomycerum	"Rhizophydium blyttiomycerum S.N. Dasgupta & R. John; Bull. Bot. Surv. India 30: 1â€“82, fig. 24. 1988.
+Parasitic; Blyttiomyces spinosus & zygospore of Spirogyra; ditch; Sultanpur Road, SE of Lucknow U., INDIA"
+Rhizophydium clavatum	"Rhizophydium clavatum S.N. Dasgupta & R. John (homonym); Bull. Bot. Surv. India 30: 1â€“82, fig. 34. 1988.
+Parasitic; Closterium; tank; Lucknow U., INDIA"
+Rhizophydium contractophilum	"Rhizophydium contractophilum Canter; Trans. Brit. Mycol. Soc. 42: 185â€“192, figs. 1â€“4. 1959.
+Parasitic; Eudorina elegans and Eudorina sp.; Lake Windermere, E.L.D., U.K."
+Rhizophydium coralloidum	"Rhizophydium coralloidum (IF 4:484) Karling; Mycologia 68: 1245â€“1248, figs. 1â€“9. 1976.
+Parasitic; Karlingia rosea; soil; Canaveral, FLORIDA, USA"
+Rhizophydium fugax	"Rhizophydium fugax Canter; Trans. Brit. Mycol. Soc. 51: 699â€“705, Pl. 57 & fig. 1. 1968.
+Parasitic; Cryptomonas spp.; plankton of lakes; E.L.D., U.K."
+Rhizophydium gonapodyanum	"Rhizophydium gonapodyanum S.N. Dasgupta & R. John; Bull. Bot. Surv. India 30: 1â€“82, fig. 23. 1988.
+Parasitic; sporangium of Gonapodya polymorpha; tank sediment; Lucknow U., INDIA"
+Rhizophydium lagenaria	"Rhizophydium lagenaria S.N. Dasgupta & R. John; Bull. Bot. Surv. India 30: 1â€“82, fig. 21. 1988.
+Parasitic; sporangium of Blastocladia on fruit bait; tank sediment; Lucknow U., INDIA"
+Rhizophydium manoense	"Rhizophydium manoense Sparrow; Mycopathol. Mycol. Appl. 25: 119â€“143. figs. 1â€“7. 1965.
+Parasitic; diatom (Cocconeis); stream, Oahu, HAWAII, USA"
+Rhizophydium mougeotiae	"Rhizophydium mougeotiae Pongratz; Schweiz. Z. Hydrol. 28: 104â€“132, fig. 2 & Pl. 5, 33â€“36. 1966.
+Parasitic; Mougeotia gracillima; Plankton; Lake LĂ©man, SWITZERLAND"
+Rhizophydium nobile	"Rhizophydium nobile Canter; Proc. Linn. Soc. London 179: 197â€“201, 2 Pl, fig. 1. 1968.
+Parasitic; resting spores of Ceratium hirundinella; lakes; E.L.D., U.K."
+Rhizophydium planktonicum	"Rhizophydium planktonicum emend. Canter; J. Linn. Soc., Bot. 62: 267â€“278, fig. 1. 1969.
+Parasitic; Asterionella formosa (diatom); lakes; E.L.D., U.K. Îž Rhizophydium planktonicum Canter (in part) 1948"
+Rhizophydium poculiforme	"Rhizophydium poculiforme S.N. Dasgupta & R. John; Bull. Bot. Surv. India 30: 1â€“82, fig. 28â€“30. 1988.
+Parasitic; Closterium; tank; Lucknow U., INDIA"
+Rhizophydium rarotonganensis	"Rhizophydium rarotonganensis Karling; Arch. Mikrobiol. 61: 112â€“127, fig. 1 Aâ€“L. 1968.
+Parasitic; Nowakowskiella profusa; soil; Rarotonga, Cook Islands, OCEANIA"
+Rhizophydium reflexum	"Rhizophydium reflexum S.N. Dasgupta & R. John; Bull. Bot. Surv. India 30: 1â€“82, fig. 18. 1988.
+Parasitic; Sporangium of Blastocladia on Pyrus fruit; tank sediment; Lucknow U., INDIA"
+Rhizophydium rhizinum	"Rhizophydium rhizinum S.N. Dasgupta & R. John; Bull. Bot. Surv. India 30: 1â€“82, fig. 17. 1988.
+Parasitic; sporangium of Blastocladia on Pyrus fruit; tank sediment; Lucknow U., INDIA"
+Rhizophydium rotundum	"Rhizophydium rotundum S.N. Dasgupta & R. John; Bull. Bot. Surv. India 30: 1â€“82, figs. 25â€“27. 1988.
+Parasitic; Closterium, Oedogonium, and Zygnema; tank; garden, Lucknow U., INDIA"
+Rhizophydium sphaerocarpum var. rhizoclonii	"Rhizophydium sphaerocarpum var. rhizoclonii Huth & Gaertner; Trans. Brit. Mycol. Soc. 61: 431â€“434, Pl. 43. 1973. Parasitic; Rhizoclonium hieroglyphicum; brackish Water; Bremerhaven, GERMANY"
+Rhizophydium sphaerocarpum var. spirogyrae	"Rhizophydium sphaerocarpum var. spirogyrae D.J.S. Barr; Canad. J. Bot. 48: 1607â€“1071, figs. 1â€“6. 1970.
+Parasitic; moribund Spirogyra; southwestern ONTARIO, CANADA"
+Rhizophydium spinosum	"Rhizophydium spinosum S.N. Dasgupta & R. John (homonym); Bull. Bot. Surv. India 30: 1â€“82, fig. 20. 1988.
+Parasitic; Blastocladia on fruit bait; tank sediment; Lucknow U., INDIA"
+Rhizophydium stellatum	"Rhizophydium stellatum S.N. Dasgupta & R. John; Bull. Bot. Surv. India 30: 182, fig. 22. 1988.
+Parasitic; Sporangium of Gonapodya polymorpha; tank sediment; Lucknow U., INDIA"
+Rhizophydium tenue	"Rhizophydium tenue (Sparrow) Karling; CI, p. 65. 1977. Îž Phlyctidium tenue Sparrow 1952
+Rhizophydium tetragenum Pongratz; Schweiz. Z. Hydrol. 28: 104â€“132, fig. 1 & Pl. 4, 25â€“28. 1966.
+Parasitic; Asterionella formosa; plankton; Lake Leman, SWITZERLAND"
+Rhizophydium tetragenum	"Rhizophydium tetragenum Pongratz; Schweiz. Z. Hydrol. 28: 104–132, fig. 1 & Pl. 4, 25–28. 1966. Parasitic; Asterionella formosa; plankton; Lake Leman, SWITZERLAND"
+Rhizophydium tubulatum	"Rhizophydium tubulatum S.N. Dasgupta & R. John; Bull. Bot. Surv. India 30: 1â€“82, fig. 31â€“33. 1988.
+Parasitic; Closterium; tank; Lucknow U., INDIA"
+Rhizophydium urcelolatum	"Rhizophydium urcelolatum S.N. Dasgupta & R. John; Bull. Bot. Surv. India 30: 1â€“82, fig. 19. 1988.
+Parasitic; Blastocladia on fruit bait; tank sediment; Lucknow U., INDIA"
+Rhizophydium venustum	"Rhizophydium venustum Canter; Trans. Brit. Mycol. Soc. 46: 305â€“320, fig. 7, aâ€“i. 1963.
+Parasitic; cysts; Uroglena americana; lakes; E.L.D., U.K. Îž Zygorhizidium venustum (Canter) Canter 1971"
+Rozella coleochaetis	"Rozella coleochaetis Sparrow; Pap. Michigan Acad. Sci. 50: 115â€“123, figs. Aâ€“E, 1964. Parasitic, Coleochaete sp.; Smithâ€™s Bog, Cheboygan Co., MICHIGAN, USA"
+Rozella diplophlyctidis	"Rozella diplophlyctidis Karling; Nova Hedwigia 45: 529â€“535, figs. 1â€“6. 1987.
+Parasitic; Diplophlyctis intestina; Moribund Nitella flexilis; Ross Biological Reserve"
+Rozella itersoniliae	"Rozella itersoniliae D.J.S. Barr & Bandoni; Mycologia 71: 1261â€“1264, figs. 1â€“4. 1979.
+Parasitic; Itersonilia perplexante (Hyphomycete); Taraxacum leaf over agar"
+Rozella longicollis	"Rozella longicollis Karling; Sydowia 19: 213â€“226, Pl. 46, figs. 21â€“29. 1965.
+Parasitic; Pythium (Oomycete); soil sample from NEW ZEALAND"
+Rozella longisporangia	"Rozella longisporangia Willoughby and Rigg; Nova Hedwigia 37: 369â€“383, fig. 1 Aâ€“F. 1983.
+Parasitic; Pythium (Oomycete); field soil with neutral pH; MAJORCA"
+Rozella multimorpha	"Rozella multimorpha Letcher & Longcore; MycoBankÂ  821536. Journal of Eukaryotic Microbiology 65: 180â€“190 (2018). Parasitic; Pythium host; small pond, Lyle E. Littlefield Garden, University of Maine Campus, Orono, MAINE, USA."
+Rozella parva	"Rozella parva Canter; J. Linn. Soc., Bot. 62: 267â€“278, fig. 3. 1969.
+Parasitic; Zygorhizidium affluens; lakes; E.L.D., U.K."
+Rozella rhizoclosmatii	"Rozella rhizoclosmatii Letcher and Longcore; MycoBank No.Â MB817338. Fungal Ecology (in press) 2016.
+Parasitic; Rhizoclosmatium; fen around Perch Pond, Old Town, Maine, USA"
+Scherffeliomycopsis coleochaetis	"Scherffeliomycopsis coleochaetis Geitler; Oesterr. Bot. Z. 109: 250â€“275, figs. 1â€“8. 1962;
+Parasitic ?; Coleochaete soluta et irregula; littoral; Lunzer Untersee, lower AUSTRIA"
+Septosperma multiforma	"Septosperma multiforma Canter; species described before genus validated; Trans. Brit. Mycol. Soc. 46: 305â€“320, figs. 4â€“7. 1963; Parasitic; developing cysts of algae; lakes; E.L.D., U.K.; Îž Septosperma multiforma Canter ex Milanez; Rickia 6: 63â€“70. 1974"
+Septosperma spinosa	"Septosperma spinosa Willoughby; species described before genus validated; Arch. Mikrobiol. 52: 101â€“131, fig. 5 aâ€“h, 1965; Parasitic; Rhizophydium coronum; heath; VICTORIA, AUSTRALIA; Îž Septosperma spinosa Willoughby ex Milanez; Rickia 6: 63â€“70. 1974"
+Sorochytrium milnesiophthora	"Sorochytrium milnesiophthora Dewel; Canad. J. Bot. 63: 1525â€“1534, figs. 1â€“36. 1985;
+Parasitic; tardigrade (Milnesium tardigradum) on moss; bridge & wall; VIRGINIA, USA"
+Sparrowia parasitica	"Sparrowia parasitica Willoughby; Nova Hedwigia 5: 335â€“340. Pl. 52. 1963;
+Parasitic; oogonia of a watermold; soil; north of Thirlmere, E.L.D., U.K."
+Sparrowia subcruciformis	"Sparrowia subcruciformis I.J. Dogma; Nova Hedwigia, 19: 503â€“509, figs. 1â€“16. 1970;
+Parasitic; various chytrids; forest soil, leaf litter; Cross Village, MICHIGAN, USA"
+Sphaerita dinobryi	"Sphaerita dinobryi (IF 3:516) Canter; J. Elisha Mitchell Sci. Soc. 84: 56â€“61, fig. 1, & Pl. 1,2. 1968;
+Parasitic; Dinobryon sertularia; lakes; E.L.D., U.K."
+Sporophlyctidium neustonicum	"Sporophlyctidium neustonicum Sparrow; Mycologia 70: 140â€“149, figs. 15â€“25. 1978;
+Parasitic; Living pine pollen; neuston; Newnanâ€™s Lake, FLORIDA, USA"
+Staurastromyces oculus	Staurastromyces oculus S. Van den Wyngaert, K. Seto & K. Rojas. MycoBank no.: 819823. Protist 168: 392-407. 2017. Parasite of Staurastrum sp. (Desmidiaceae) Lake Stechlin, GERMANY
+Thallasochytrium gracillariopsidis	"Thallasochytrium gracillariopsidis Nyvall et al. J. Phycol. 35: 176â€“185, figs. 1â€“24. 1999.
+Parasitic; Living in Gracilariopsis sp.; marine; Zhan Shan Bay, Qindao, PEOPLES REPUBLIC OF CHINA"
+Zygorhizidium affluens	"Zygorhizidium affluens Canter; J. Linn. Soc., Bot.Â 62: 267â€“278, fig. 2. 1969; Parasitic; Asterionella formosa; plankton of lakes; E.L.D., U.K.; Ξ Rhizophydium planktonicum Canter (in part) 1948"
+Zygorhizidium asterionellae	"Zygorhizidium asterionellae Pongratz; Schweiz. Z. Hydrol. 28: 104â€“132, Pl. 3, 19â€“24. 1966;
+Parasitic; Asterionella formosa; plankton; Lake LĂ©man, SWITZERLAND
+Species not validly published. See comment by Seto in Fungal Systematics and Evolution 5: 17â€“38. 2020 (posted in 2019)"
+Zygorhizidium chlorophycidis	"Zygorhizidium chlorophycidis Canter; Nova Hedwigia 5: 1â€“6, Pls. 1â€“2. 1963;
+Parasitic; colonial planktonic greens; lakes; E.L.D., U.K."
+Zygorhizidium cystogenum	"Zygorhizidium cystogenum Canter; Trans. Brit. Mycol. Soc. 46: 305â€“320, figs. 1,2. 1963;
+Parasitic; Dinobryon spp., Uroglena sp.; lakes; E.L.D., U.K."
+Zygorhizidium planktonicum forma asterionellae	"Zygorhizidium planktonicum forma asterionellae Canter, Jaworski, & Beakes; Nova Hedwigia 55: 437â€“455. 1992; Parasitic; Asterionella; lakes; E.L.D., U.K."
+Zygorhizidium planktonicum forma synedrae	"Zygorhizidium planktonicum forma synedrae Canter; Nova Hedwigia 55: 437â€“455. 1992;
+Parasitic; Synedra; lakes, E.L.D., U.K."
+Zygorhizidium vaucheriae	"Zygorhizidium vaucheriae Rieth; Biol. Zentralbl. 86: 433â€“448, figs. 1â€“2, Pls. 1, 2. 1967;
+Parasitic; Vaucheria; ditch; Gatersleben, Germany & Tadzhik, S.S.R."
+Catenaria vermicola	"Catenaria vermicola Birchfield; Mycopathol. Mycol. Appl. 13: 331â€“338, figs. 1â€“3. 1960
+Parasitic; plant parasitic nematodes (Xiphinema chambersi); soil; Shreveport, LOUISIANA, USA"
+Chytridium hyperparasiticum	"Chytridium hyperparasiticum Kobayasi & Konno; Bull. Natl. Sci. Mus., 14: 1â€“18, fig. 2 B. 1971
+Parasitic; sporangium of Rhizophlyctis rosea; soil in water, Angmagssalik, GREENLAND"
+Chytridium parasiticum	"Chytridium parasiticum Willoughby 1956 â‰ˇ Chytriomyces willoughbyi (Willoughby) Karling; Mycopath. Mycol. Appl., 36: 165â€“178. 1968"
+Chytriomyces willoughbyi	"Chytriomyces willoughbyi (Willoughby) Karling; Mycopathol. Mycol. Appl. 36: 165â€“178. 1968
+â‰ˇChytridium parasiticum Willoughby 1956"
+Dendrochytridium crassum	"Dendrochytridium crassum Letcher, Longcore & M.J. Powell. MycoBank no.: 803848. Mycologia 106: 145â€“153. 2014
+Saprobic or parasitic; pollen bait and Dictyuchus encysted zoospores; aerial tree detritus; Australian Tropical Research Centre, QUEENSLAND, AUSTRALIA"
+Gromochytrium mamkaevae	"Gromochytrium mamkaevae Karpov & Aleoshin MycoBank no.: 805308. Karpov et al. Persoonia 32: 115-126, 2014.
+parasite; Tribonema gayanum; ditch near Kirovsk, Leningrad Region, RUSSIA"
+Olpidium paradoxum	"Olpidium paradoxum S.L. Glocking; Mycol. Res. 102: 206â€“208. 1998;
+parasitic and saprobic; loricate rotifers; pond water; Ibaraki, JAPAN; unlikely to be an Olpidium (see fig.8)."
+Olpidium sparrowii	"Olpidium sparrowii I.J. Dogma; Philipp. J. Biol. 6: 9â€“20, figs. 1â€“16. 1977; table of Olpidium spp. parasitic on rotifers;
+Parasitic; rotifer eggs; cultivated soils; Putiao, Luzon, PHILIPPINES"
+Paradinomyces triforaminorum	"Paradinomyces triforaminorum ReĂ±Ă© & Karpov MB# 846462. Harmful Algae. 120:102352. 2022
+parasitic on dinoflagellates especially Kryptoperidinium spp., KĂ¶kar Island, Ă…land Archipelago,Â  FINLAND"
+Paramicrosporidium saccamoebae	Paramicrosporidium saccamoebae Corsaro et al. MycoBank no.: 807392. Parasitol Res 113: 1909–1918. 2014 parasitic, Saccamoeba sp., freshwater pond, GERMANY
+Paramicrosporidium vannellae	Paramicrosporidium vannellae Corsaro et al. MycoBank no.: 807393. Parasitol Res 113: 1909–1918. 2014, parasitic, Vannella sp., keratitis patient, GERMANY
+Paraphelidium tribonemae	"Paraphelidium tribonemae Karpov, Moreira &Â Lopez-Garcia [Phylum Aphelida Karpov, Aleoshin & Mikhailov 2014; Class Aphelidea Gromov 2000; Order Aphelidida Gromov 2000, Family AphelididaeÂ Gromov 2000] Journal of Eukaryotic Microbiology (in press) 2016. parasitic, Tribonema gayanum, roadside ditches, Novgorod district, RUSSIA"
+Phlyctochytrium parasitans	"Phlyctochytrium parasitans Sparrow & I.J. Dogma; Arch. Mikrobiol. 89: 177â€“204, fig. 2, Tâ€“U. 1973;
+Parasitic; eggs of Achlya flagellata; damp soil; Carretara Duarte, HISPANIOLA"
+Rhizophydium sparrowii	"Rhizophydium sparrowii S.N. Dasgupta & R. John; Indian Phytopathol. 43: 564â€“567, fig. 2. 1990 (1991).
+â€śSaproparasiticâ€ť; Ulothrix sp.; ditch; Sultanpur Rd, SE of Lucknow U., INDIA"
+Rhyniovexator penetrans	"Rhyniovexator penetrans M. Krings & H. Kerp Review of Palaeobotany and Palynology 271: 104106. 2019, Fossil, possibly a chytrid; parasite of Anechosoma oblongum, a microfossil in the early Devonian Rhynie and Windyfield chert. SCOTLAND"
+Sparrowia parasitica	"Sparrowia parasitica Willoughby; Nova Hedwigia 5: 335â€“340. Pl. 52. 1963;
+Parasitic; oogonia of a watermold; soil; north of Thirlmere, E.L.D., U.K."
+Zygophlyctis asterionellae	"Zygophlyctis asterionellae K. Seto, MycoBank no.: 831581. Fungal Systematics and Evolution 5: 17â€“38. 2020 (posted in 2019)
+parasite of Asterionella formosa (diatom); Lake Biwaike, Shimotakai, Nagano, JAPAN"
