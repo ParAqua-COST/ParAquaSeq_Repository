@@ -23,9 +23,9 @@ ParAquaSeq can be used to elucidate the role of zoosporic parasites in natural a
 ## Accessing to Zoosporic Databases
 - [Metadata](https://github.com/NataliaTimoneda/ZoosporicParasitesRepository/blob/main/files/ParAquaSeq_curated_240515.xlsx)
   
-   If you want information about the fields of this metadata file, you can find it in [info_metadata](https://github.com/NataliaTimoneda/ZoosporicParasitesRepository/blob/main/files/XXXXXXXX.csv).
+   If you want information about the fields of this metadata file, you can find it in [info_metadata](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/XXXXXXXX.csv).
   
-- [Fasta file](https://github.com/NataliaTimoneda/ZoosporicParasitesRepository/blob/main/files/sequences.fasta)
+- [Fasta file](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/sequences.fasta)  
   <details><summary> Click to see details</summary>
   <p>
 
@@ -36,7 +36,7 @@ ParAquaSeq can be used to elucidate the role of zoosporic parasites in natural a
     - **Taxa**: The taxonomic classification of the organism from which the sequence was obtained. Includes 7 ranks: Kingdom (k), Phylum (p), Class (c), Order (o), Family (f), Genere (g), Specie (s).
     </p>
     </details>
-- [Fasta file for VSEARCH](https://github.com/NataliaTimoneda/ZoosporicParasitesRepository/blob/main/files/sequences_vsearch.fasta)
+- [Fasta file for VSEARCH](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/sequences_vsearch.fasta)
   <details><summary> Click to see details</summary>
   <p>
     
@@ -45,7 +45,7 @@ ParAquaSeq can be used to elucidate the role of zoosporic parasites in natural a
     - **taxa inforamtion**: "taxa=" follows of the 7 taxonomic rankss: Kingdom (k), Phylum (p), Class (c), Order (o), Family (f), Genere (g), Specie (s).
     </p>
     </details>
-- Files for BLASTn ([.nhr](https://github.com/NataliaTimoneda/ZoosporicParasitesRepository/blob/main/files/blast_ddbb.nhr), [.nin](https://github.com/NataliaTimoneda/ZoosporicParasitesRepository/blob/main/files/blast_ddbb.nin) and [.nsq](https://github.com/NataliaTimoneda/ZoosporicParasitesRepository/blob/main/files/blast_ddbb.nsq)) 
+- Files for BLASTn ([.nhr](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/blast_ddbb.nhr), [.nin](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/blast_ddbb.nin) and [.nsq](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/blast_ddbb.nsq)) 
     
       
 ## Using a BLAST Database
@@ -57,7 +57,7 @@ In this section, we will guide you through the process of perform BLAST searches
   ### Prerequisites
   Before you begin, ensure that you have BLAST (Basic Local Alignment Search Tool) installed on your system/server. You can download and install BLAST from the [NCBI BLAST+ download page.](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE_TYPE=BlastDocs&DOC_TYPE=Download)
   ### Download the BLAST Database
-  Download the provided BLAST database files from the repository. The database consists of several files ([.nhr](https://github.com/NataliaTimoneda/ZoosporicParasitesRepository/blob/main/files/blast_ddbb.nhr), [.nin](https://github.com/NataliaTimoneda/ZoosporicParasitesRepository/blob/main/files/blast_ddbb.nin) and [.nsq](https://github.com/NataliaTimoneda/ZoosporicParasitesRepository/blob/main/files/blast_ddbb.nsq)) with a common prefix (blast_ddbb). Ensure all files are downloaded to the same directory.
+  Download the provided BLAST database files from the repository. The database consists of several files ([.nhr](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/blast_ddbb.nhr), [.nin](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/blast_ddbb.nin) and [.nsq](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/blast_ddbb.nsq)) with a common prefix (blast_ddbb). Ensure all files are downloaded to the same directory.
   ### Run a BLAST Search
   Once you have downloaded the database files, you can run a BLAST search against the database using the blastn command. Here’s an example of how to run a nucleotide BLAST search:
   ```shell  
@@ -79,7 +79,7 @@ In this section, we will guide you through the process of using the provided dat
   ### Prerequisites
   Before you begin, ensure that you have VSEARCH installed on your system. You can download and install VSEARCH from the [VSEARCH GitHub repository.](https://github.com/torognes/vsearch)
   ### Download the VSEARCH Database
-  Download the provided [VSEARCH fasta file](https://github.com/NataliaTimoneda/ZoosporicParasitesRepository/blob/main/files/sequences_vsearch.fasta) from the repository.
+  Download the provided [VSEARCH fasta file](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/sequences_vsearch.fasta) from the repository.
   ### Run a VSEARCH Search
   Once you have downloaded the database files, you can run a search against the database using VSEARCH. Here’s an example of how to perform a search:
   ```shell
@@ -107,7 +107,7 @@ In this section, we will guide you through using the provided database in DADA2 
 <details><summary> Click to see details</summary>
 <p>
 
-  Download one of the 2 fasta file proveded, you can use both.[VSEARCH fasta file](https://github.com/NataliaTimoneda/ZoosporicParasitesRepository/blob/main/files/sequences_vsearch.fasta) or [Fasta file](https://github.com/NataliaTimoneda/ZoosporicParasitesRepository/blob/main/files/sequences.fasta)
+  Download one of the 2 fasta file proveded, you can use both.[VSEARCH fasta file](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/sequences_vsearch.fasta) or [Fasta file](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/sequences.fasta)
 
  ```shell
  taxa <- assignTaxonomy(seqtab.nochim, "~/path/fasta_file.fa", multithread=TRUE)
@@ -125,12 +125,12 @@ This R script performs a search on the NCBI database to extract sequence informa
   ### Prerequisites
   
   Before you begin, ensure that you have R installed on your system. You can download and install R from [CRAN](https://cran.r-project.org/).
-  Download the [Rscript](https://github.com/NataliaTimoneda/ZoosporicParasitesRepository/blob/main/scripts/NCBI_Search_script.R) and this [file](https://github.com/NataliaTimoneda/ZoosporicParasitesRepository/blob/main/files/ParasiteList_UniMain.txt). Ensure all files are downloaded to the same directory.
+  Download the [Rscript](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/scripts/NCBI_Search_script.R) and this [file](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/ParasiteList_UniMain.txt). Ensure all files are downloaded to the same directory.
 
   ### Run the script
   - Open the script and modify if it's nedded the lines after the comment `# NOTE`
   - Run the script in your R environment or RStudio.
-  - The query searches used are available [here](https://github.com/NataliaTimoneda/ZoosporicParasitesRepository/blob/main/files/NCBI_Queries.txt).
+  - The query searches used are available [here](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/NCBI_Queries.txt).
 </p>
 </details>
 
@@ -145,5 +145,5 @@ As of release ParAquaSeq Repository, its scripts, and all files provided for dow
 All data is freely available for academic and commercial use as long as ParAquaSeq Repository is credited as original author and a link to the full license is provided. 
 
 ## Report issues
-Please report any issue on [GitHub](https://github.com/NataliaTimoneda/ZoosporicParasitesRepository/issues)
+Please report any issue on [GitHub](https://github.com//ParAqua-COST/ParAquaSeq_Repository/issues)
 
