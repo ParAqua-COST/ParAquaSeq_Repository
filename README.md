@@ -21,9 +21,9 @@ The ParAquaSeq database is a major deliverable of ParAqua. It provides rRNA sequ
 ParAquaSeq can be used to elucidate the role of zoosporic parasites in natural and artificial aquatic systems by shading light on parasites functional roles, and can constitute a tool for monitoring and early detection of infectious diseases. In the long term, the ParAquaSeq database will underpin a better understanding of the extent, ecology and impact of zoosporic parasites on aquatic communities, supporting data analyses from metabarcoding surveys.
 
 ## Accessing to Zoosporic Databases
-- [Metadata](https://github.com/NataliaTimoneda/ZoosporicParasitesRepository/blob/main/files/ParAquaSeq_curated_240515.xlsx)
+- [Metadata](https://github.com/NataliaTimoneda/ZoosporicParasitesRepository/blob/main/files/ParAquaSeq_curated.v1.0.xlsx)
   
-   If you want information about the fields of this metadata file, you can find it in [info_metadata](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/XXXXXXXX.csv).
+   If you want information about the fields of this metadata file, you can find it very soon in [info_metadata](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/XXXXXXXX.csv).
   
 - [Fasta file](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/sequences.v1.0.fasta)  
   <details><summary> Click to see details</summary>
