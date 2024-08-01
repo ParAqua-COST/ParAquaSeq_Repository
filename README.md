@@ -35,7 +35,7 @@ ParAquaSeq can be used to elucidate the role of zoosporic parasites in natural a
 
    -  [ParAquaSeq_Additional_known_hosts](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/ParAquaSeq_Additional_known_hosts.csv): File containing Additional hosts with taxonomy and References information.
 
-       All the variables information is available [here.](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/ParAquaSeq_Summary_of_variables_Additional_known_hosts.csv)
+       All the variables information is available [here.](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/ParAquaSeq_Summary_of_variables_Additonal_known_hosts.csv)
 
   
 - [Fasta file](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/ParAquaSeq_sequences.v1.0.fasta)  
