@@ -22,20 +22,20 @@ ParAquaSeq can be used to elucidate the role of zoosporic parasites in natural a
 
 ## Accessing to ParAquaSeq Datasets
 - Metadata files
-  - [ParAquaSeq_Parasite_information](https://github.com/NataliaTimoneda/ZoosporicParasitesRepository/blob/main/files/ParAquaSeq_Parasite_information.csv): File containing the basic information about the Parasite like taxonomy, region, site collection.
+  - [ParAquaSeq_Parasite_information](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/ParAquaSeq_Parasite_information.csv): File containing the basic information about the Parasite like taxonomy, region, site collection.
 
-     All the variables information is available [here.](https://github.com/NataliaTimoneda/ZoosporicParasitesRepository/blob/main/files/ParAquaSeq_Summary_of_variables_Parasite_information.csv)
-  -  [ParAquaSeq_Primary_hosts](https://github.com/NataliaTimoneda/ZoosporicParasitesRepository/blob/main/files/ParAquaSeq_Primary_hosts.csv): File containing the taxonomy information about the primary hosts for each Parasite.
+     All the variables information is available [here.](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/ParAquaSeq_Summary_of_variables_Parasite_information.csv)
+  -  [ParAquaSeq_Primary_hosts](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/ParAquaSeq_Primary_hosts.csv): File containing the taxonomy information about the primary hosts for each Parasite.
 
-     All the variables information is available [here.](https://github.com/NataliaTimoneda/ZoosporicParasitesRepository/blob/main/files/ParAquaSeq_Summary_of_variables_Primary_hosts.csv)
+     All the variables information is available [here.](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/ParAquaSeq_Summary_of_variables_Primary_hosts.csv)
        
-  -  [ParAquaSeq_References](https://github.com/NataliaTimoneda/ZoosporicParasitesRepository/blob/main/files/ParAquaSeq_References.csv): File containing the References information for each Parasite.
+  -  [ParAquaSeq_References](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/ParAquaSeq_References.csv): File containing the References information for each Parasite.
 
-     All the variables information is available [here.](https://github.com/NataliaTimoneda/ZoosporicParasitesRepository/blob/main/files/ParAquaSeq_Summary_of_variables_References.csv)
+     All the variables information is available [here.](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/ParAquaSeq_Summary_of_variables_References.csv)
 
-   -  [ParAquaSeq_Additional_known_hosts](https://github.com/NataliaTimoneda/ZoosporicParasitesRepository/blob/main/files/ParAquaSeq_Additional_known_hosts.csv): File containing Additional hosts with taxonomy and References information.
+   -  [ParAquaSeq_Additional_known_hosts](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/ParAquaSeq_Additional_known_hosts.csv): File containing Additional hosts with taxonomy and References information.
 
-       All the variables information is available [here.](https://github.com/NataliaTimoneda/ZoosporicParasitesRepository/blob/main/files/ParAquaSeq_Summary_of_variables_Additional_known_hosts.csv)
+       All the variables information is available [here.](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/ParAquaSeq_Summary_of_variables_Additional_known_hosts.csv)
 
   
 - [Fasta file](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/ParAquaSeq_sequences.v1.0.fasta)  
