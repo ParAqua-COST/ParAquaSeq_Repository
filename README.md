@@ -25,7 +25,7 @@ ParAquaSeq can be used to elucidate the role of zoosporic parasites in natural a
   
    If you want information about the fields of this metadata file, you can find it very soon in [info_metadata](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/XXXXXXXX.csv).
   
-- [Fasta file](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/sequences.v1.0.fasta)  
+- [Fasta file](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/ParAquaSeq_sequences.v1.0.fasta)  
   <details><summary> Click to see details</summary>
   <p>
 
@@ -36,16 +36,16 @@ ParAquaSeq can be used to elucidate the role of zoosporic parasites in natural a
     - **Taxa**: The taxonomic classification of the organism from which the sequence was obtained. Includes 7 ranks: Kingdom (k), Phylum (p), Class (c), Order (o), Family (f), Genus (g), Species (s).
     </p>
     </details>
-- [Fasta file for VSEARCH and DADA2](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/sequences_vsearch.v1.0.fasta)
+- [Fasta file for VSEARCH and DADA2](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/ParAquaSeq_sequences_vsearch.v1.0.fasta)
   <details><summary> Click to see details</summary>
   <p>
     
-    Contains the sequences in FASTA format to perform a taxonomic assignment with VSEARCH. The identificator consist on:
+    Contains the sequences in FASTA format to perform a taxonomic assignment with VSEARCH or DADA2. The identificator consist on:
     - **ID**: The unique sequence identifier
     - **Taxa**: "taxa=" follows of the 7 taxonomic ranks: Kingdom (k), Phylum (p), Class (c), Order (o), Family (f), Genus (g), Species (s).
     </p>
     </details>
-- Files for BLASTn ([.nhr](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/blast_ddbb.v1.0.nhr), [.nin](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/blast_ddbb.v1.0.nin) and [.nsq](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/blast_ddbb.v1.0.nsq)) 
+- Files for BLASTn ([.nhr](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/ParAquaSeq_blast_ddbb.v1.0.nhr), [.nin](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/ParAquaSeq_blast_ddbb.v1.0.nin) and [.nsq](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/ParAquaSeq_blast_ddbb.v1.0.nsq)) 
     
       
 ## Using a BLAST Database
@@ -56,17 +56,17 @@ In this section, we will guide you through the process of performing BLAST searc
  
   ### Prerequisites
   Before you begin, ensure that you have BLAST (Basic Local Alignment Search Tool) installed on your system/server. You can download and install BLAST from the [NCBI BLAST+ download page.](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE_TYPE=BlastDocs&DOC_TYPE=Download)
-  ### Download the BLAST Dataset
-  Download the provided BLAST database files from the repository. The database consists of several files ([.nhr](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/blast_ddbb.v1.0.nhr), [.nin](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/blast_ddbb.v1.0.nin) and [.nsq](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/blast_ddbb.v1.0.nsq)) with a common prefix (blast_ddbb). Ensure all files are downloaded to the same directory.
+  ### Download the BLAST Database
+  Download the provided BLAST database files from the repository. The database consists of several files ([.nhr](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/ParAquaSeq_blast_ddbb.v1.0.nhr), [.nin](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/ParAquaSeq_blast_ddbb.v1.0.nin) and [.nsq](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/ParAquaSeq_blast_ddbb.v1.0.nsq)) with a common prefix (blast_ddbb). Ensure all files are downloaded to the same directory.
   ### Run a BLAST Search
   Once you have downloaded the database files, you can run a BLAST search against the database using the blastn command. Here’s an example of how to run a nucleotide BLAST search:
   ```shell  
   blastn -query query_sequence.fasta -db  blast_ddbb -out results.txt -outfmt 6
   ```
-  - query query_sequence.fasta: Specifies the query sequence file in FASTA format. The file containing the sequences you want to search against the dataset.
-  - db path/blast_db: Specifies the path and prefix of the provided database files.
-  - out results.txt: Specifies the output file to write the results.
-  - outfmt 6: Specifies the output format (tabular).
+  - **query** query_sequence.fasta: Specifies the query sequence file in FASTA format. The file containing the sequences you want to search against the dataset.
+  - **db** path/blast_db: Specifies the path and prefix of the provided database files.
+  - **out** results.txt: Specifies the output file to write the results.
+  - **outfmt** 6: Specifies the output format (tabular).
 </p>
 </details>
 
@@ -79,25 +79,26 @@ In this section, we will guide you through the process of performing searches wi
   ### Prerequisites
   Before you begin, ensure that you have VSEARCH installed on your system. You can download and install VSEARCH from the [VSEARCH GitHub repository.](https://github.com/torognes/vsearch)
   ### Download the VSEARCH dataset
-  Download the provided [VSEARCH fasta file](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/sequences_vsearch.v1.0.fasta) from the repository.
+  Download the provided [VSEARCH fasta file](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/ParAquaSeq_sequences_vsearch.v1.0.fasta) from the repository.
   ### Run a VSEARCH Search
   Once you have downloaded the dataset files, you can run a search against the dataset using VSEARCH. Here’s an example of how to perform a search:
   ```shell
   vsearch --usearch_global query_sequence.fasta --db ParAquaSeq_sequences_vsearch.v1.0.fasta --id 0.9 --blast6out results.txt
   ```
-  - usearch_global: Specifies the search mode for global alignment.
+  - **usearch_global**: Specifies the search mode for global alignment.
   - query_seqeunce.fasta: Specifies the query sequence file in FASTA format. The file containing the sequences you want to search against the dataset.
-  - db path/ParAquaSeq_sequences_vsearch.v1.0.fasta: Specifies the path to the dataset fasta file.
-  - id 0.9: Specifies the minimum percentage identity for matches (e.g., 90%).
-  - blast6out results.txt: Specifies the output file in BLAST tabular format (outfmt 6).
+  - **db** path/ParAquaSeq_sequences_vsearch.v1.0.fasta: Specifies the path to the dataset fasta file.
+  - **id** 0.9: Specifies the minimum percentage identity for matches (e.g., 90%).
+  - **blast6out** results.txt: Specifies the output file in BLAST tabular format (outfmt 6).
 
   ```shell
   vsearch --sintax query_sequences.fasta --db path/sequences_vsearch.v1.0.fasta --tabbedout results.sintax --sintax_cutoff 0.8
   ```
-  - sintax query_sequences.fasta: Specifies the query sequence file in FASTA format. The file containing the sequences you want to search against the dataset.
-  - db path/sequences_vsearch.v1.0.fasta: Specifies the path to the dataset fasta file.
-  - tabbedout results.sintax: Specifies the output file for the SINTAX results in tab-separated format.
-  - sintax_cutoff 0.8: Specifies the confidence threshold for taxonomic assignment (e.g., 0.8 for 80% confidence).
+  - **sintax**: Species the search mode for non-Bayesian taxonomy classifier.
+  - query_sequences.fasta: Specifies the query sequence file in FASTA format. The file containing the sequences you want to search against the dataset.
+  - **db** path/sequences_vsearch.v1.0.fasta: Specifies the path to the dataset fasta file.
+  - **tabbedout** results.sintax: Specifies the output file for the SINTAX results in tab-separated format.
+  - **sintax_cutoff** 0.8: Specifies the confidence threshold for taxonomic assignment (e.g., 0.8 for 80% confidence).
 
 </p>
 </details>
@@ -108,7 +109,7 @@ In this section, we will guide you through using the provided dataset in DADA2 p
 <details><summary> Click to see details</summary>
 <p>
 
-  Download the provided [VSEARCH fasta file](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/sequences_vsearch.v1.0.fasta) from the repository.
+  Download the provided [VSEARCH fasta file](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/ParAquaSeq_sequences_vsearch.v1.0.fasta) from the repository.
 
  ```shell
  taxa <- assignTaxonomy(seqtab.nochim, "~/path/sequences_vsearch.v1.0.fasta", multithread=TRUE)
@@ -118,7 +119,7 @@ In this section, we will guide you through using the provided dataset in DADA2 p
 
 ## NCBI Search and Parasite Information Extraction Script
 
-This R script performs a search on the NCBI database to extract sequence information and associated metadata. The output is a .txt file (tbl separated) containing the extracted data.
+This R script performs a search on the NCBI database to extract sequence information and associated metadata. The output is a .txt file (tab-separated) containing the extracted data.
 
 <details><summary> Click to see details</summary>
 <p>
