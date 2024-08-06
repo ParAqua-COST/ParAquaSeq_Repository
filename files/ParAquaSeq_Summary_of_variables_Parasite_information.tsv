@@ -3,15 +3,15 @@ catalogNumber	dwc	http://rs.tdwg.org/dwc/terms/catalogNumber	An identifier (pref
 Behavior	dwc	http://rs.tdwg.org/dwc/terms/behavior	The behavior shown by the subject at the time the dwc:Occurrence was recorded. Define the parasitic behaviour of the species. Can assume the values i. confirmed facultative parasitic ii. putative parasitic iii. confirmed facultative parasitic iiii. putative facultative parasitic
 verbatimIdentification	dwc	http://rs.tdwg.org/dwc/terms/verbatimIdentification	A string representing the taxonomic identification as it appeared in the original record.
 previousIdentifications	dwc	http://rs.tdwg.org/dwc/terms/previousIdentifications	A list (concatenated and separated) of previous assignments of names to the dwc:Organism.
-scientificName	dwc	http://rs.tdwg.org/dwc/terms/scientificName	The full scientific name, with authorship and date information if known. When forming part of a dwc:Identification, this should be the name in lowest level taxonomic rank that can be determined. In the "Parasite information" table it refers to the parasite.
-taxonRank	dwc	http://rs.tdwg.org/dwc/terms/taxonRank	The taxonomic rank of the most specific name in the dwc:scientificName. In the "Parasite information" table it refers to the parasite.
-kingdom	dwc	http://rs.tdwg.org/dwc/terms/kingdom	The full scientific name of the kingdom in which the dwc:Taxon is classified. In the "Parasite information" table it refers to the parasite.
-phylum	dwc	http://rs.tdwg.org/dwc/terms/phylum	The full scientific name of the phylum or division in which the dwc:Taxon is classified. In the "Parasite information" table it refers to the parasite.
-class	dwc	http://rs.tdwg.org/dwc/terms/class	The full scientific name of the class in which the dwc:Taxon is classified. In the "Parasite information" table it refers to the parasite.
-order	dwc	http://rs.tdwg.org/dwc/terms/order	The full scientific name of the order in which the dwc:Taxon is classified. In the "Parasite information" table it refers to the parasite.
-family	dwc	http://rs.tdwg.org/dwc/terms/family	The full scientific name of the family in which the dwc:Taxon is classified. In the "Parasite information" table it refers to the parasite.
-genus	dwc	http://rs.tdwg.org/dwc/terms/genus	The full scientific name of the genus in which the dwc:Taxon is classified. In the "Parasite information" table it refers to the parasite.
-specificEpithet	dwc	http://rs.tdwg.org/dwc/terms/specificEpithet	The name of the first or species epithet of the dwc:scientificName. In the "Parasite information" table it refers to the parasite.
+scientificName	dwc	http://rs.tdwg.org/dwc/terms/scientificName	The full scientific name, with authorship and date information if known. When forming part of a dwc:Identification, this should be the name in lowest level taxonomic rank that can be determined. In the 'Parasite information' table it refers to the parasite.
+taxonRank	dwc	http://rs.tdwg.org/dwc/terms/taxonRank	The taxonomic rank of the most specific name in the dwc:scientificName. In the 'Parasite information' table it refers to the parasite.
+kingdom	dwc	http://rs.tdwg.org/dwc/terms/kingdom	The full scientific name of the kingdom in which the dwc:Taxon is classified. In the 'Parasite information' table it refers to the parasite.
+phylum	dwc	http://rs.tdwg.org/dwc/terms/phylum	The full scientific name of the phylum or division in which the dwc:Taxon is classified. In the 'Parasite information' table it refers to the parasite.
+class	dwc	http://rs.tdwg.org/dwc/terms/class	The full scientific name of the class in which the dwc:Taxon is classified. In the 'Parasite information' table it refers to the parasite.
+order	dwc	http://rs.tdwg.org/dwc/terms/order	The full scientific name of the order in which the dwc:Taxon is classified. In the 'Parasite information' table it refers to the parasite.
+family	dwc	http://rs.tdwg.org/dwc/terms/family	The full scientific name of the family in which the dwc:Taxon is classified. In the 'Parasite information' table it refers to the parasite.
+genus	dwc	http://rs.tdwg.org/dwc/terms/genus	The full scientific name of the genus in which the dwc:Taxon is classified. In the 'Parasite information' table it refers to the parasite.
+specificEpithet	dwc	http://rs.tdwg.org/dwc/terms/specificEpithet	The name of the first or species epithet of the dwc:scientificName. In the 'Parasite information' table it refers to the parasite.
 18S rDNA	NA	 	The gene encoding for the 18s ribosomal is present in the DNA_sequence. Can assume the values YES/NO.
 ITS	NA		The Internal transcribed spacer is present in the DNA_sequence. Can assume the values YES/NO.
 28S rDNA	NA		The gene encoding for the 28s ribosomal is present in the DNA_sequence. Can assume the values YES/NO.
