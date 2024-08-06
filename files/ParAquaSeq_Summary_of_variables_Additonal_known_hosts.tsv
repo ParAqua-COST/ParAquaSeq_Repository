@@ -1,7 +1,7 @@
 Label	Voc	IRI	Definition
 verbatimIdentification	dwc	http://rs.tdwg.org/dwc/terms/verbatimIdentification	A string representing the taxonomic identification as it appeared in the original record.
-scientificName	dwc	http://rs.tdwg.org/dwc/terms/scientificName	The full scientific name, with authorship and date information if known. When forming part of a dwc:Identification, this should be the name in lowest level taxonomic rank that can be determined. In the "Primary hosts" table it refers to the parasite.
-other_associatedTaxa	NA		A list (concatenated and separated) of identifiers or names of dwc:Taxon records and the associations of this dwc:Occurrence to each of them. All the associations listed here referes to the type "host".
+scientificName	dwc	http://rs.tdwg.org/dwc/terms/scientificName	The full scientific name, with authorship and date information if known. When forming part of a dwc: Identification, this should be the name in lowest level taxonomic rank that can be determined. In the 'Primary hosts' table it refers to the parasite.
+other_associatedTaxa	NA		A list (concatenated and separated) of identifiers or names of dwc:Taxon records and the associations of this dwc:Occurrence to each of them. All the associations listed here referes to the type 'host'.
 Comments	NA		
 bibliographicCitation	DCMI	http://purl.org/dc/terms/bibliographicCitation	A bibliographic reference for the resource.
 identifier	DCMI	http://purl.org/dc/elements/1.1/identifier	An unambiguous reference to the resource within a given context.
