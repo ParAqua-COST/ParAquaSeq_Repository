@@ -1,4 +1,4 @@
-Label	Voc	IRI	Definition
+Label  Voc  IRI  Definition
 catalogNumber	dwc	http://rs.tdwg.org/dwc/terms/catalogNumber	An identifier (preferably unique) for the record within the data set or collection.
 Title	DCMI	http://purl.org/dc/elements/1.1/title	A name given to the resource.
 bibliographicCitation	DCMI	http://purl.org/dc/terms/bibliographicCitation	A bibliographic reference for the resource.
