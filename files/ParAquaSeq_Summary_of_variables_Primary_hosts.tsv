@@ -1,12 +1,12 @@
-Label	Voc	IRI	Definition																
-catalogNumber	dwc	http://rs.tdwg.org/dwc/terms/catalogNumber	An identifier (preferably unique) for the record within the data set or collection.																
-scientificName	dwc	http://rs.tdwg.org/dwc/terms/scientificName	'The full scientific name, with authorship and date information if known. When forming part of a dwc:Identification, this should be the name in lowest level taxonomic rank that can be determined. In the ''Primary hosts'' table it refers to the parasite.'																
+Label	Voc	IRI	Definition
+catalogNumber	dwc	http://rs.tdwg.org/dwc/terms/catalogNumber	An identifier (preferably unique) for the record within the data set or collection.
+scientificName	dwc	http://rs.tdwg.org/dwc/terms/scientificName	'The full scientific name, with authorship and date information if known. When forming part of a dwc:Identification, this should be the name in lowest level taxonomic rank that can be determined. In the ''Primary hosts'' table it refers to the parasite.'
 associatedTaxa	dwc	http://rs.tdwg.org/dwc/terms/associatedTaxa	'A list (concatenated and separated) of identifiers or names of dwc:Taxon records and the associations of this dwc:Occurrence to each of them. All the associations listed here referes to the type ''host''.
-kingdom	dwc	http://rs.tdwg.org/dwc/terms/kingdom	'The full scientific name of the kingdom in which the dwc:Taxon is classified. In the ''Primary hosts'' table it refers to the associatedTaxa.'																
-phylum	dwc	http://rs.tdwg.org/dwc/terms/phylum	'The full scientific name of the phylum or division in which the dwc:Taxon is classified. In the ''Primary hosts'' table it refers to the associatedTaxa.'	 								
-class	dwc	http://rs.tdwg.org/dwc/terms/class	'The full scientific name of the class in which the dwc:Taxon is classified. In the ''Primary hosts'' table it refers to the associatedTaxa.'																
-order	dwc	http://rs.tdwg.org/dwc/terms/order	'The full scientific name of the order in which the dwc:Taxon is classified. In the ''Primary hosts'' table it refers to the associatedTaxa.'																
-family	dwc	http://rs.tdwg.org/dwc/terms/family	'The full scientific name of the family in which the dwc:Taxon is classified. In the ''Primary hosts'' table it refers to the associatedTaxa.'																
-genus	dwc	http://rs.tdwg.org/dwc/terms/genus	'The full scientific name of the genus in which the dwc:Taxon is classified. In the ''Primary hosts'' table it refers to the associatedTaxa.'																
-specificEpithet	dwc	http://rs.tdwg.org/dwc/terms/specificEpithet	'The name of the first or species epithet of the dwc:scientificName. In the ''Primary hosts'' table it refers to the associatedTaxa.'																
+kingdom	dwc	http://rs.tdwg.org/dwc/terms/kingdom	'The full scientific name of the kingdom in which the dwc:Taxon is classified. In the ''Primary hosts'' table it refers to the associatedTaxa.'
+phylum	dwc	http://rs.tdwg.org/dwc/terms/phylum	'The full scientific name of the phylum or division in which the dwc:Taxon is classified. In the ''Primary hosts'' table it refers to the associatedTaxa.'
+class	dwc	http://rs.tdwg.org/dwc/terms/class	'The full scientific name of the class in which the dwc:Taxon is classified. In the ''Primary hosts'' table it refers to the associatedTaxa.'
+order	dwc	http://rs.tdwg.org/dwc/terms/order	'The full scientific name of the order in which the dwc:Taxon is classified. In the ''Primary hosts'' table it refers to the associatedTaxa.'
+family	dwc	http://rs.tdwg.org/dwc/terms/family	'The full scientific name of the family in which the dwc:Taxon is classified. In the ''Primary hosts'' table it refers to the associatedTaxa.'
+genus	dwc	http://rs.tdwg.org/dwc/terms/genus	'The full scientific name of the genus in which the dwc:Taxon is classified. In the ''Primary hosts'' table it refers to the associatedTaxa.'
+specificEpithet	dwc	http://rs.tdwg.org/dwc/terms/specificEpithet	'The name of the first or species epithet of the dwc:scientificName. In the ''Primary hosts'' table it refers to the associatedTaxa.'
 Comments
