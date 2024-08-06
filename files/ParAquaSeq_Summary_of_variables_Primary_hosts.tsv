@@ -9,4 +9,4 @@ order	dwc	http://rs.tdwg.org/dwc/terms/order	'The full scientific name of the or
 family	dwc	http://rs.tdwg.org/dwc/terms/family	'The full scientific name of the family in which the dwc:Taxon is classified. In the ''Primary hosts'' table it refers to the associatedTaxa.'
 genus	dwc	http://rs.tdwg.org/dwc/terms/genus	'The full scientific name of the genus in which the dwc:Taxon is classified. In the ''Primary hosts'' table it refers to the associatedTaxa.'
 specificEpithet	dwc	http://rs.tdwg.org/dwc/terms/specificEpithet	'The name of the first or species epithet of the dwc:scientificName. In the ''Primary hosts'' table it refers to the associatedTaxa.'
-Comments      
+Comments			
