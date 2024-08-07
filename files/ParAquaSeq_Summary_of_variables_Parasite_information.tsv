@@ -35,4 +35,4 @@ verbatimLocality	dwc	http://rs.tdwg.org/dwc/terms/verbatimLocality	The original 
 country	dwc	http://rs.tdwg.org/dwc/terms/country	The name of the country or major administrative unit in which the dcterms:Location occurs.
 habitat	dwc	http://rs.tdwg.org/dwc/terms/habitat	A category or description of the habitat in which the dwc:Event occurred. Define the main habitat in which the parasite occurr. Can assume the values i. marine ii. freshwater iii. industrial.
 locationRemarks	dwc	http://rs.tdwg.org/dwc/terms/locationRemarks	Comments or notes about the dcterms:Location.
-Comments  NA    
+Comments  NA		
