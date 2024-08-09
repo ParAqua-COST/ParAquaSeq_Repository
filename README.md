@@ -150,6 +150,12 @@ This R script performs a search on the NCBI database to extract sequence informa
 </p>
 </details>
 
+
+## Current version
+- Version: 1.0
+- Released: August 2024
+- DOI:
+  
 ## How to cite it
 
 - ParAquaSeq Databases and scripts, DOI: XX.XXX/zenodo.XXXXXXX
