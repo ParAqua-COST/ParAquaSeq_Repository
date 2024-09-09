@@ -75,12 +75,13 @@ In this section, we will guide you through the process of performing BLAST searc
   ### Run a BLAST Search
   Once you have downloaded the database files, you can run a BLAST search against the database using the blastn command. Here’s an example of how to run a nucleotide BLAST search:
   ```shell  
-  blastn -query query_sequence.fasta -db  blast_ddbb -out results.txt -outfmt 6
+  blastn -query query_sequence.fasta -db  ParAquaSeq_blast_ddbb.v1.0 -out results.txt -max_target_seqs 4 -outfmt 6
   ```
   - **query** query_sequence.fasta: Specifies the query sequence file in FASTA format. The file containing the sequences you want to search against the dataset.
   - **db** path/blast_db: Specifies the path and prefix of the provided database files.
   - **out** results.txt: Specifies the output file to write the results.
   - **outfmt** 6: Specifies the output format (tabular).
+  - **max_target_seqs** 4: Number of aligned sequences to keep.
 </p>
 </details>
 
