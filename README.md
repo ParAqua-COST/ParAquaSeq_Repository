@@ -50,13 +50,23 @@ ParAquaSeq can be used to elucidate the role of zoosporic parasites in natural a
     - **Taxa**: The taxonomic classification of the organism from which the sequence was obtained. Includes 7 ranks: Kingdom (k), Phylum (p), Class (c), Order (o), Family (f), Genus (g), Species (s).
     </p>
     </details>
-- [Fasta file for VSEARCH and DADA2](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/ParAquaSeq_sequences_vsearch.v1.0.fasta)
+- [Fasta file for VSEARCH](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/ParAquaSeq_sequences_vsearch.v1.0.fasta)
   <details><summary> Click to see details</summary>
   <p>
     
-    Contains the sequences in FASTA format to perform a taxonomic assignment with VSEARCH or DADA2. The identificator consist on:
+    Contains the sequences in FASTA format to perform a taxonomic assignment with VSEARCH. The identificator consist on:
     - **ID**: The unique sequence identifier
     - **Taxa**: "taxa=" follows of the 7 taxonomic ranks: Kingdom (k), Phylum (p), Class (c), Order (o), Family (f), Genus (g), Species (s).
+    </p>
+    </details>
+
+- [Fasta file for DADA2](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/ParAquaSeq_sequences_DADA2.v1.0.fasta)
+  <details><summary> Click to see details</summary>
+  <p>
+    
+    Contains the sequences in FASTA format to perform a taxonomic assignment with DADA2. The identificator consist on:
+    - **ID**: The unique sequence identifier
+    - **Taxa**: ";" follows of the 7 taxonomic ranks: Kingdom (k); Phylum (p); Class (c); Order (o); Family (f); Genus (g); Species (s).
     </p>
     </details>
 - Files for BLASTn ([.nhr](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/ParAquaSeq_blast_ddbb.v1.0.nhr), [.nin](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/ParAquaSeq_blast_ddbb.v1.0.nin) and [.nsq](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/ParAquaSeq_blast_ddbb.v1.0.nsq)) 
@@ -124,10 +134,10 @@ In this section, we will guide you through using the provided dataset in DADA2 p
 <details><summary> Click to see details</summary>
 <p>
 
-  Download the provided [VSEARCH fasta file](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/ParAquaSeq_sequences_vsearch.v1.0.fasta) from the repository.
+  Download the provided [VSEARCH fasta file](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/ParAquaSeq_sequences_DADA2.v1.0.fasta) from the repository.
 
  ```shell
- taxa <- assignTaxonomy(seqtab.nochim, "~/path/sequences_vsearch.v1.0.fasta", multithread=TRUE)
+ taxa <- assignTaxonomy(seqtab.nochim, "~/path/sequences_DADA2.v1.0.fasta", multithread=TRUE)
   ```
 </p>
 </details>
