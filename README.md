@@ -117,7 +117,7 @@ In this section, we will guide you through the process of performing searches wi
   - **blast6out** results.txt: Specifies the output file in BLAST tabular format (outfmt 6).
 
   ```shell
-  vsearch --sintax query_sequences.fasta --db path/sequences_vsearch.v1.0.fasta --tabbedout results.sintax --sintax_cutoff 0.8
+  vsearch --sintax query_sequences.fasta --db path/ParAquaSeq_sequences_vsearch.v1.0.fasta --tabbedout results.sintax --sintax_cutoff 0.8
   ```
   - **sintax**: Species the search mode for non-Bayesian taxonomy classifier.
   - query_sequences.fasta: Specifies the query sequence file in FASTA format. The file containing the sequences you want to search against the dataset.
