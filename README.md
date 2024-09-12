@@ -22,7 +22,7 @@ ParAquaSeq can be used to elucidate the role of zoosporic parasites in natural a
 
 ## Accessing to ParAquaSeq Datasets
 - Metadata files
-  - [ParAquaSeq_Parasite_information](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/ParAquaSeq_Parasite_informationn.v1.0.tsv): File containing the basic information of each parasite sequence, including their taxonomy, ribosomal region or collection site details.
+  - [ParAquaSeq_Parasite_information](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/ParAquaSeq_Parasite_information.v1.0.tsv): File containing the basic information of each parasite sequence, including their taxonomy, ribosomal region or collection site details.
 
      All the variables information is available [here.](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/ParAquaSeq_Summary_of_variables_Parasite_information.tsv)
   -  [ParAquaSeq_Primary_hosts](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/ParAquaSeq_Primary_hosts.v1.0.tsv): File containing the primary host information of each parasite sequence, including their taxonomy.
