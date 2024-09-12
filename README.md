@@ -134,7 +134,7 @@ In this section, we will guide you through using the provided dataset in DADA2 p
 <details><summary> Click to see details</summary>
 <p>
 
-  Download the provided [VSEARCH fasta file](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/ParAquaSeq_sequences_DADA2.v1.0.fasta) from the repository.
+  Download the provided [DADA2 fasta file](https://github.com/ParAqua-COST/ParAquaSeq_Repository/blob/main/files/ParAquaSeq_sequences_DADA2.v1.0.fasta) from the repository.
 
  ```shell
  taxa <- assignTaxonomy(seqtab.nochim, "~/path/sequences_DADA2.v1.0.fasta", multithread=TRUE)
