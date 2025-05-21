@@ -170,7 +170,7 @@ This R script performs a search on the NCBI database to extract sequence informa
 ## How to cite it
 
 - ParAquaSeq Databases and scripts, DOI: 10.5281/zenodo.14851381
-- Van den Wyngaert S.,Cerbin S., Garzoli L., Grossart HP., Gsell AS., Kraberg A., Lepère C., Neuhauser S., Stupar M., Tarallo A., Cunliffe M., Gachon C., Gavrilović A., Masigol H., Rasconi S., Selmeczy GB., Schmeller DS., Scholz B., Timoneda N., Trbojević I., Wilk-Woźniak E., Reñé A.  ParAquaSeq, a database of ecologically annotated rRNA sequences covering zoosporic  parasites infecting aquatic primary producers in natural and industrial systems.
+- Van den Wyngaert S., Cerbin S., Garzoli L., Grossart HP., Gsell AS., Kraberg A., Lepère C., Neuhauser S., Stupar M., Tarallo A., Cunliffe M., Gachon C., Gavrilović A., Masigol H., Rasconi S., Selmeczy GB., Schmeller DS., Scholz B., Timoneda N., Trbojević I., Wilk-Woźniak E., Reñé A. (2025) ParAquaSeq, a database of ecologically annotated rRNA sequences covering zoosporic parasites infecting aquatic primary producers in natural and industrial systems. Molecular Ecology Resources.
 
 ## Terms of Use/License information
 As of release ParAquaSeq Repository, its scripts, and all files provided for download are licensed under [Create Commons Attribution 4.0 (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
